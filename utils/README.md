@@ -1,5 +1,8 @@
-# Data generation utilities
-This folder contains codes and utilities for easily generating data and testing them.
+# Utilities
+This folder consists of codes for easy handling of data generation and testing.
+
+## Data generation utilities
+This folder contains dataGen.py which has some codes for easily generating data.
 
 | function name | Arguments | Description |
 | ------------- | --------- | ----------- |
