@@ -10,5 +10,5 @@ The SVM formulation states that we need to find the minimum value of ||x||^2/2 c
 * h=a column with all values -1
 
 using the dataGen library and centering the data along two lines we get the following result.
-[SVMthroughOrigin](SVMthroughOrigin.png)
+![SVMthroughOrigin](SVMthroughOrigin.png)
 
